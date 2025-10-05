@@ -58,5 +58,5 @@ All data used in this project is publicly available from the Government of India
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/vatsal2641/Data_science_project.git
    cd <your-repo-name>
